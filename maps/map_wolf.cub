@@ -1,0 +1,21 @@
+
+R 1920 1080
+
+NO ../.././textures/textures_wolf/wood.xpm
+
+
+WE ../.././textures/textures_wolf/mossy.xpm
+EA ../.././textures/textures_wolf/redbrick.xpm
+SO ../.././textures/textures_wolf/eagle.xpm
+
+S ../.././textures/textures_wolf/greenlight.xpm
+
+F 55,122,126
+C 239,201,175
+
+11111111111111
+10000000001111
+10000000N01111
+10000000200011
+10000000001111
+11111111111111

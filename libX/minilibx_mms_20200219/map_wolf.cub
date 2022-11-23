@@ -1,0 +1,21 @@
+
+R 800 800
+
+NO ../.././textures/textures_wolf/wood.xpm
+
+
+WE ../.././textures/textures_wolf/mossy.xpm
+EA ../.././textures/textures_wolf/redbrick.xpm
+SO ../.././textures/textures_wolf/eagle.xpm
+
+S ../.././textures/textures_wolf/greenlight.xpm
+
+F 55,122,126
+C 239,201,175
+
+11111111
+10001111
+10N01111
+10200011
+10001111
+11111111

@@ -1,0 +1,19 @@
+R 1000 1000
+NO ../.././textures/wood.xpm
+WE ../.././textures/apart.xpm
+EA ../.././textures/paper.xpm
+SO ../.././textures/bamboo.xpm
+
+S ../.././textures/bed2.xpm
+F     55, 122, 126
+C  239, 201, 175
+
+111111111
+100000001
+10S000001
+100000001
+100010001
+100000001
+100020001
+100000001
+111111111
